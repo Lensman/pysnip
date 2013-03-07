@@ -1,0 +1,10 @@
+# Compiled source
+*.pyc
+*.pxd
+*.o
+*.def
+build/*
+enet/build/*
+feature_server/logs/*.log
+
+

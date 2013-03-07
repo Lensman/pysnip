@@ -1,0 +1,3 @@
+LIBRARY enet.pyd
+EXPORTS
+initenet

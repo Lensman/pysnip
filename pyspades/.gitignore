@@ -1,0 +1,5 @@
+build/*
+enet/build/*
+*.pyc
+*.pyd
+
